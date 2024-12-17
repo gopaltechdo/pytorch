@@ -1,0 +1,6 @@
+Invoking command in '/home/gopal/ros2/macine_learning_ws/build/vision_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gopal/ros2/macine_learning_ws/src/vision_msgs/vision_msgs -DCMAKE_INSTALL_PREFIX=/home/gopal/ros2/macine_learning_ws/install/vision_msgs
+Invoked command in '/home/gopal/ros2/macine_learning_ws/build/vision_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gopal/ros2/macine_learning_ws/src/vision_msgs/vision_msgs -DCMAKE_INSTALL_PREFIX=/home/gopal/ros2/macine_learning_ws/install/vision_msgs
+Invoking command in '/home/gopal/ros2/macine_learning_ws/build/vision_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gopal/ros2/macine_learning_ws/build/vision_msgs -- -j32 -l32
+Invoked command in '/home/gopal/ros2/macine_learning_ws/build/vision_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gopal/ros2/macine_learning_ws/build/vision_msgs -- -j32 -l32
+Invoking command in '/home/gopal/ros2/macine_learning_ws/build/vision_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gopal/ros2/macine_learning_ws/build/vision_msgs
+Invoked command in '/home/gopal/ros2/macine_learning_ws/build/vision_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gopal/ros2/macine_learning_ws/build/vision_msgs
