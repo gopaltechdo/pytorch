@@ -41,3 +41,15 @@ print(range)
 #creating tesors likes
 ten_zeros= torch.zeros_like(input=one_to_ten)
 print(ten_zeros)
+
+
+#tensor data types
+float_32_tensor= torch.tensor([3.4,3.4,32.4],
+                              dtype= None, #what type of dataType is the tensor (eg- float32 or float16)
+                              device= None, #what device is tensor on
+                              requires_grad=False) #weather or not  to track gradients with this tensors operations 
+print(float_32_tensor)
+
+#float16 yensor type
+float_16_tensor= float_32_tensor.type(torch.float16)
+print(float_16_tensor)
