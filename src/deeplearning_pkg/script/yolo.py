@@ -2,7 +2,7 @@
 # from ultralytics import YOLO
 
 # class YOLODetector:
-#     def __init__(self, model_path="yolov8n.pt"):  # Default to YOLOv8 nano model
+#     def __init__(self, model_path="yolov8n.engine"):  # Default to YOLOv8 nano model
 #         # Load the YOLO model
 #         self.model = YOLO(model_path)
 #         print(f"Model {model_path} loaded successfully.")
