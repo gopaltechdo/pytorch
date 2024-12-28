@@ -84,7 +84,7 @@ class YoloImageProcessor(Node):
         self.bridge = CvBridge()
         
         # Load YOLO model
-        self.yolo_model = YOLO('yolov8n.pt')  # Use a YOLO model
+        self.yolo_model = YOLO('yolov8n.engine')  # Use a YOLO model
 
         # Image subscriber
         self.image_subscriber = self.create_subscription(
