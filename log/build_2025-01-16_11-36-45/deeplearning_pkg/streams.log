@@ -1,0 +1,25 @@
+[2.005s] Invoking command in '/home/nvidia/pytorch/src/deeplearning_pkg': PYTHONPATH=/home/nvidia/pytorch/build/deeplearning_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nvidia/pytorch/install/deeplearning_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/deeplearning_pkg build --build-base /home/nvidia/pytorch/build/deeplearning_pkg/build install --record /home/nvidia/pytorch/build/deeplearning_pkg/install.log --single-version-externally-managed install_data
+[2.358s] /home/nvidia/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:270: UserWarning: Unknown distribution option: 'tests_require'
+[2.358s]   warnings.warn(msg)
+[2.632s] running egg_info
+[2.677s] writing ../../build/deeplearning_pkg/deeplearning_pkg.egg-info/PKG-INFO
+[2.678s] writing dependency_links to ../../build/deeplearning_pkg/deeplearning_pkg.egg-info/dependency_links.txt
+[2.679s] deleting ../../build/deeplearning_pkg/deeplearning_pkg.egg-info/entry_points.txt
+[2.679s] writing requirements to ../../build/deeplearning_pkg/deeplearning_pkg.egg-info/requires.txt
+[2.679s] writing top-level names to ../../build/deeplearning_pkg/deeplearning_pkg.egg-info/top_level.txt
+[2.773s] reading manifest file '../../build/deeplearning_pkg/deeplearning_pkg.egg-info/SOURCES.txt'
+[2.776s] writing manifest file '../../build/deeplearning_pkg/deeplearning_pkg.egg-info/SOURCES.txt'
+[2.776s] running build
+[2.776s] running build_py
+[2.777s] copying deeplearning_pkg/__init__.py -> /home/nvidia/pytorch/build/deeplearning_pkg/build/lib/deeplearning_pkg
+[2.778s] running install
+[2.788s] running install_lib
+[2.835s] running install_data
+[2.836s] copying resource/deeplearning_pkg -> /home/nvidia/pytorch/install/deeplearning_pkg/share/ament_index/resource_index/packages
+[2.837s] copying package.xml -> /home/nvidia/pytorch/install/deeplearning_pkg/share/deeplearning_pkg
+[2.837s] running install_egg_info
+[2.887s] removing '/home/nvidia/pytorch/install/deeplearning_pkg/lib/python3.10/site-packages/deeplearning_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[2.888s] Copying ../../build/deeplearning_pkg/deeplearning_pkg.egg-info to /home/nvidia/pytorch/install/deeplearning_pkg/lib/python3.10/site-packages/deeplearning_pkg-0.0.0-py3.10.egg-info
+[2.890s] running install_scripts
+[3.256s] writing list of installed files to '/home/nvidia/pytorch/build/deeplearning_pkg/install.log'
+[3.336s] Invoked command in '/home/nvidia/pytorch/src/deeplearning_pkg' returned '0': PYTHONPATH=/home/nvidia/pytorch/build/deeplearning_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nvidia/pytorch/install/deeplearning_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/deeplearning_pkg build --build-base /home/nvidia/pytorch/build/deeplearning_pkg/build install --record /home/nvidia/pytorch/build/deeplearning_pkg/install.log --single-version-externally-managed install_data

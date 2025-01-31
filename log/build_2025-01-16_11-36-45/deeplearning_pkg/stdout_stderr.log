@@ -1,0 +1,23 @@
+/home/nvidia/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:270: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+writing ../../build/deeplearning_pkg/deeplearning_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/deeplearning_pkg/deeplearning_pkg.egg-info/dependency_links.txt
+deleting ../../build/deeplearning_pkg/deeplearning_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/deeplearning_pkg/deeplearning_pkg.egg-info/requires.txt
+writing top-level names to ../../build/deeplearning_pkg/deeplearning_pkg.egg-info/top_level.txt
+reading manifest file '../../build/deeplearning_pkg/deeplearning_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/deeplearning_pkg/deeplearning_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying deeplearning_pkg/__init__.py -> /home/nvidia/pytorch/build/deeplearning_pkg/build/lib/deeplearning_pkg
+running install
+running install_lib
+running install_data
+copying resource/deeplearning_pkg -> /home/nvidia/pytorch/install/deeplearning_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/nvidia/pytorch/install/deeplearning_pkg/share/deeplearning_pkg
+running install_egg_info
+removing '/home/nvidia/pytorch/install/deeplearning_pkg/lib/python3.10/site-packages/deeplearning_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/deeplearning_pkg/deeplearning_pkg.egg-info to /home/nvidia/pytorch/install/deeplearning_pkg/lib/python3.10/site-packages/deeplearning_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/nvidia/pytorch/build/deeplearning_pkg/install.log'
